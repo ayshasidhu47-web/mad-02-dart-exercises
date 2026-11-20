@@ -41,4 +41,4 @@ Replace this picture with your own. Run `dart test` and `dart run`, take a scree
 
 ## AI note
 
-Replace this line with one sentence that says what you asked AI, or write "I didn't use AI".
+I asked AI how to finish the Dart GradeBook — how forAverage picks a grade from minAverage, how find uses the _students map.
